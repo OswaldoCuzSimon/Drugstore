@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+elasticsearch==6.3.0
+jupyter==1.0.0
+selenium==3.12.0

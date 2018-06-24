@@ -1,0 +1,62 @@
+[
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 1,
+        "_source": {
+            "title": "texto diferente a message",
+            "message": "elasticsearch",
+            "likes": 1
+        }
+    },
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 2,
+        "_source": {
+            "title": "Avispao' es el tramposo que por ganar,  hace del soborno primordial necesidad",
+            "message": "ElasticSearch con texto al final",
+            "likes": 2
+        }
+    },
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 3,
+        "_source": {
+            "title": "que el vivo vive del bobo,  solo es un dicho pa' pasar por encima del otro  y justificarlo todo",
+            "message": "con palabra clave elasticsearch en medio de una frase",
+            "likes": 3
+        }
+    },
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 4,
+        "_source": {
+            "title": "Puse tu envidia de telonero y tu rencor me hace los coros Como un loro lero lero lero",
+            "message": "con una sentencia al inicio elasticsearch",
+            "likes": 4
+        }
+    },
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 5,
+        "_source": {
+            "title": "Somos mil y a la vez somos uno Porque somos sin-ceros",
+            "message": "Con la palabra clave partida y al final elastic search",
+            "likes": 9
+        }
+    },
+    {
+        "_index": "inventory",
+        "_type": "document",
+        "_id": 6,
+        "_source": {
+            "title": "No por vender agujas, tienes que vivir en un agujero,",
+            "message": "Con Mayuscula y minusculas, ELASTIC SeArCh y al centro de la sentencia",
+            "likes": 10
+        }
+    }
+]
