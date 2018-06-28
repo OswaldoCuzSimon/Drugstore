@@ -29,6 +29,8 @@ class ElasticsearchReader(object):
                 filter_path=_filter_path)
         except ConnectionError as error:
             raise error
+        except RequestError as error:
+            return 0
 
         try:
             return int(result['hits']['hits'][0]['_id'])
